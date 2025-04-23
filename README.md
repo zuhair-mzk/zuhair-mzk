@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Zuhair Khan
 
-<!--
-**zuhair-mzk/zuhair-mzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Quantum Security | Cybersecurity | Full-Stack Builder | CS @ UofT
 
-Here are some ideas to get you started:
+## 🛠️ Current Focus
+- 🔐 Building a PQC-based messaging app (Kyber + Flask)
+- ⚛️ Experimenting with Qiskit & quantum compilers (inspired by CodeQraft & research in post-quantum crypto)
+- 🛍️ CTO @ [KZCollections](https://kzcollections.ca): thobe fashion startup built with Shopify + Liquid + Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Building
+- Qiskit, PennyLane, Rust, PyTorch
+- Cybersecurity CTFs: XSS, buffer overflows, ARP spoofing, SQLi, GPG attacks
+- Strengthening fundamentals via Google Cybersecurity Certificate: incident response, SIEM, network defense
+- Exploring fault-tolerant compiler design and hybrid classical-quantum pipelines
+
+## 📬 Let’s Connect
+Reach out to me at **zuhair.khan@mail.utoronto.ca**.  
+I'm always open to conversations around **quantum computing**, **security engineering**, or **clean, scalable product design**.
